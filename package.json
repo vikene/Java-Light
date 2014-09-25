@@ -1,0 +1,14 @@
+{
+    "title": "Java Light",
+    "name": "Java Light",
+    "description": "Awesome Java-Light flavoured theme, stay cool in day time!",
+    "version": "0.0.5",
+    "author": "Vigneash Sundar <vigneashsundar@live.com>",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "java-light.less",
+        "dark": false
+    }
+}
