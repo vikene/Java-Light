@@ -1,9 +1,15 @@
 {
     "title": "Java Light",
-    "name": "Java Light",
+    "name": "javalight",
     "description": "Awesome Java-Light flavoured theme, stay cool in day time!",
     "version": "0.0.5",
     "author": "Vigneash Sundar <vigneashsundar@live.com>",
+    "homepage": "https://github.com/vikene/java-light",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:vikene/java-light.git"
+    },
+    "license": "MIT",
     "engines": {
         "brackets": ">=0.42.0"
     },
